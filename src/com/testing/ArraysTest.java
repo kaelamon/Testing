@@ -11,6 +11,11 @@ public class ArraysTest {
         System.out.println(Arrays.equals(arr1, arr2)); //Сравниваем массив arr1 и arr2
         System.out.println(Arrays.equals(arr1, arr3)); //Сравниваем массив arr1 и arr3
         System.out.println(Arrays.toString(arr3)); //Выводим что у нас там в массиве arr3
+        System.out.println(Arrays.asList(arr1)); //Сохранения массива в лист
+        System.out.println(Arrays.hashCode(arr3)); //Выдача хеш-кода массива
+        System.out.println(Arrays.binarySearch(arr1, 2)); // Поиск индекса в массиве по "ключу"
+        System.out.println(Arrays.compare(arr1, arr2)); // Сравнение массивов
+        System.out.println(Arrays.toString(Arrays.copyOfRange(arr1, 0, 9))); //Копирует массив с новой длиной
 
         int i1 = 13_37; // Инициируем int с подчеркиванием в середине
         int i2 = 13____________37; // Инициируем int с большим подчеркиванием в середине
