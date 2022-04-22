@@ -10,3 +10,4 @@ class Test extends Point {
         System.out.println(super.x);//напишите здесь свой код
     }
 }
+//сделал

@@ -11,3 +11,4 @@ class Test extends Point {
         System.out.println(sample.x + " " + new Point().x);
     }
 }
+//сделал

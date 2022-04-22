@@ -5,4 +5,3 @@ class T1 extends T2 {
         return "T1";
     }
 }
-

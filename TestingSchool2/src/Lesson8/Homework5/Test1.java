@@ -12,3 +12,4 @@ class Test1 {
         favorite().mountain();
     }
 }
+//сделал

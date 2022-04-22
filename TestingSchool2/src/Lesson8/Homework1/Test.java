@@ -13,3 +13,4 @@ class Test {
         System.out.println(q.origin.useCount);
     }
 }
+//сделал
